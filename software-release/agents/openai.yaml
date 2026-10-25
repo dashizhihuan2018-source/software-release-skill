@@ -1,0 +1,4 @@
+interface:
+  display_name: "软件公开发布"
+  short_description: "执行软件公开发布，覆盖免费托管域名、官网宣传、版权和可验证交付"
+  default_prompt: "请使用 $software-release 实际完成我的软件发布，先核对目标、费用与公开范围，再构建验证、制作官网与素材，并回读公开发布结果。"
