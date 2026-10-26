@@ -21,6 +21,7 @@ license: MIT
 
 - 选择或申请境外托管、VPS、子域名/独立域名，配置 DNS / HTTPS 时，读 [free-hosting-domain.md](references/free-hosting-domain.md)。它区分能立即使用的静态托管与可能需审核、绑卡或付费的资源。
 - 制作官网、功能页、教程、海报、宣传视频，以及网页/媒体验收时，读 [site-media-qa.md](references/site-media-qa.md)。不要默认给简单更新附加全套宣传工作。
+- 制作或调整软件发布网站的视觉、标题字体及真实产品展示时，再读 [product-site-typography.md](references/product-site-typography.md)。标题默认使用思源宋体真正粗体，已有品牌或用户本次指定优先。
 - macOS 零预算分发、首次信任或独立 CI 启动检查时，读 [macos-free-distribution.md](references/macos-free-distribution.md)。区分无需开发环境、系统首次确认、公证和真实 GUI 验收。
 
 ## 执行与验收门

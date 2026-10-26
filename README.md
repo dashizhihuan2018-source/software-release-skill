@@ -33,10 +33,11 @@ software-release/
   agents/openai.yaml
   references/free-hosting-domain.md
   references/site-media-qa.md
+  references/product-site-typography.md
   references/macos-free-distribution.md
 ```
 
-主文件保留共享流程与验收门；三份参考按需加载。没有未运行的部署脚本、演示账户、默认凭证或预设私人服务器地址。具体工具依当前 Codex 环境提供的构建、Git、浏览器、设计和托管能力选择；缺能力时如实报告，不能编造成功。
+主文件保留共享流程与验收门；参考按需加载。官网视觉模块涵盖完整产品叙事、思源宋体Bold 700、本地字体与OFL、最新App真实素材，以及Git/腾讯云分别回读；它是软件发布的一部分，不自动扩张为软件重写。没有未运行的部署脚本、演示账户、默认凭证或预设私人服务器地址。具体工具依当前 Codex 环境提供的构建、Git、浏览器、设计和托管能力选择；缺能力时如实报告，不能编造成功。
 
 ## 验证与维护
 
